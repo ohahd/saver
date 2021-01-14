@@ -8,3 +8,8 @@ MarkDown是一种超文本语言，今天我第一次学习了它。
 用命令行敲命令是一种Geek行为，我觉得还挺有趣的。
 有点意思，下面这张gif可以形容我的心情：
 ![https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif]
+Git提交：
+1. git add -A
+2. git commit -m "本次提交的修改的备注"
+3. git push origin main(第一次提交)
+   git push (后续提交)
